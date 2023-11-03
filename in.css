@@ -1,0 +1,53 @@
+/* Style the wrapper */
+.wrapper {
+    text-align: center;
+    margin: 20px auto;
+    width: 300px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 5px;
+    background-color: #f8f8f8;
+  }
+  
+  /* Style the headings */
+  h1 {
+    font-size: 24px;
+    color: #333;
+  }
+  
+  h2 {
+    font-size: 16px;
+    color: #666;
+  }
+  
+  /* Style the time display */
+  p {
+    font-size: 36px;
+    color: #333;
+    margin: 20px 0;
+  }
+  
+  /* Style the buttons */
+  button {
+    font-size: 16px;
+    padding: 10px 20px;
+    margin: 5px;
+    background-color: #0077cc;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+  }
+  
+  button:hover {
+    background-color: #005599;
+  }
+  
+  #button-reset {
+    background-color: #cc0000;
+  }
+  
+  #button-reset:hover {
+    background-color: #990000;
+  }
+  
